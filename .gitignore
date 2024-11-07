@@ -1,0 +1,7 @@
+# Configuration files with sensitive information
+/config/database.php
+
+# Upload directory content
+/assets/uploads/*
+!/assets/uploads/.htaccess
+!/assets/uploads/index.php
